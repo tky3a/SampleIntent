@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleIntent</string>
+    <string name="secondCenterStr">ようこそ新しい画面へ</string> // 追加
+    <string name="buckBtn">戻る</string> // 追加
+</resources>
